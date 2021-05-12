@@ -1,7 +1,12 @@
 .header {
-    position: relative;
-    max-width: 100%;
-    font-size: 1.25em;
-    padding: 1em 1em 1em 1em;
-    background: rgb(155,55,0);
+  position: relative;
+  max-width: 100%;
+  font-size: 1.25em;
+  padding: 1em 1em 1em 1em;
+  background: #0c0c1d;
+}
+
+.header h2 {
+  color: #f1ffe7;
+  text-shadow: white 1px 1px;
 }
